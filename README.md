@@ -14,7 +14,7 @@ This project implements a client-server application in Rust for forwarding clien
 
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/Saugat913/connX.git`
 2. Configure the server with port forwarding rules and routing configurations.
 3. Install and configure the client-side software on devices hosting web applications.
 4. Access the client-side web application through the server's forwarded port.
